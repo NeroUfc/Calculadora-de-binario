@@ -41,8 +41,7 @@ int main(){
         printf("Decimal ----> hexadecimal\n");
         printf("Insira O numero para a conversao:\n");
         scanf("%d",&hex);
-        tam=qt_alg(hex);
-        DPH(hex,tam);
+        DPH(hex);
         printf("\nDeseja retornar ao menu?? 1->sim 2->nao\n");
         scanf("%d",&opc);
         if(opc==1){
