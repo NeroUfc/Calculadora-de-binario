@@ -1,0 +1,4 @@
+C:\Users\Hitalo\Desktop\fup\Calculadora\global\func.c:3:23: fatal error: global/ops.c: No such file or directory
+ #include"global/ops.c"
+                       ^
+compilation terminated.
